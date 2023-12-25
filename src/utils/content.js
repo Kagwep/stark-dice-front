@@ -17,6 +17,10 @@ import BannerBgImageMobile from "../assets/images/section5/_9b850475-c821-45b3-b
 // Section6
 import Sec6Image1 from "../assets/images/section6/_ffdcd54c-8814-4e96-a304-1ad0ed8d046c.jpg";
 
+import Awere from "../assets/images/section8/Awere.png";
+import Dalmas from "../assets/images/section8/Dalmas.png";
+import Kagwe from "../assets/images/section8/Kagwe.png";
+
 
 
 // Section10
@@ -140,17 +144,17 @@ export const section8Content = {
       {
         name: 'Felix Awere',
         role: 'Lead Developer',
-        image: 'https://via.placeholder.com/150', // Replace with actual image URL
+        image: Awere, // Replace with actual image URL
       },
       {
         name: 'Dalmas Ogembo',
         role: 'CTO',
-        image: 'https://via.placeholder.com/150', // Replace with actual image URL
+        image: Dalmas, // Replace with actual image URL
       },
       {
         name: 'Peter Kagwe',
         role: 'Developer',
-        image: 'https://via.placeholder.com/150', // Replace with actual image URL
+        image: Kagwe,
       },
       {
         name: 'Emily Davis',
